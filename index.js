@@ -86,6 +86,7 @@ function colorMoves(rowIndex,colIndex){
         x++;y--;
 
     }
+    table.rows[rowIndex].cells[colIndex].style.backgroundColor='#ADD8E6';
 
 }
 
