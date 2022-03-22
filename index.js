@@ -1,5 +1,5 @@
-const rowLimit = 9;
-const colLimit =9;
+const rowLimit = 8;
+const colLimit =8;
 let table = document.createElement('table');
 let tbody = document.createElement('tbody');
 
